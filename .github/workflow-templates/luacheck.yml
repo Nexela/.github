@@ -5,7 +5,7 @@ on:
   pull_request:
     branches:
     - master
-name: Check
+name: Luacheck
 jobs:
   lint:
     runs-on: ubuntu-latest

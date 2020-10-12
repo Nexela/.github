@@ -1,0 +1,11 @@
+{
+    "name": "Luacheck",
+    "description": "Lua luacheck template",
+    "iconName": "luacheck",
+    "categories": [
+        "Lua"
+    ],
+    "filePatterns": [
+        "^info.json$"
+    ]
+}
